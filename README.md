@@ -1,3 +1,5 @@
+# 🛡️ NEBULA ANTISCAN v2.0 – Detector de escaneos agresivos
+
 **NEBULA ANTISCAN** es una herramienta interna de Andromeda Universo25. Detector de scaners agresivos ilegales. Es una demo. Si os gusta el proyecto publico la nueva version. 
 
 <p align="center">
@@ -22,8 +24,6 @@
 ![Nebula AntiScan](Nebula_AntiScan.png)
 
 ---
-
-# 🛡️ NEBULA ANTISCAN v2.0 – Detector de escaneos agresivos en tiempo real
 
 **NEBULA ANTISCAN** es una herramienta de ciberdefensa diseñada para detectar, geolocalizar y clasificar **escaneos agresivos e ilegales** dirigidos a infraestructuras críticas.  
 Nace con una filosofía clara: *“Conocer al enemigo es el primer paso para defenderte”*. Por eso su diseño prioriza la transparencia, la ética y la inteligencia de amenazas.
