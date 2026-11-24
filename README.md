@@ -1,3 +1,9 @@
+**NEBULA ANTISCAN** es una herramienta interna de Andromeda Universo25. Detector de scaners agresivos ilegales. Es una demo. Si os gusta el proyecto publico la nueva version. 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Actividad+maliciosa+en+red" alt="Typing animation" />
+</p>
+
 ![Version](https://img.shields.io/badge/version-1.3-blue)
 ![Release](https://img.shields.io/badge/release-stable-brightgreen)
 ![License](https://badgen.net/badge/license/GPLv3/blue)
@@ -13,17 +19,9 @@
 ![Dashboard](https://img.shields.io/badge/Web%20Dashboard-Cyberpunk-ff69b4)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Actividad+maliciosa+en+red" alt="Typing animation" />
-</p>
-
----
-
 ![Nebula AntiScan](Nebula_AntiScan.png)
 
 ---
-
-**NEBULA ANTISCAN** es la demo de Andromeda.
 
 # 🛡️ NEBULA ANTISCAN v2.0 – Detector de escaneos agresivos en tiempo real
 
